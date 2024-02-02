@@ -14,4 +14,5 @@
 ![ github stats](https://github-readme-stats.vercel.app/api?username=Soumya6Tiwari&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya6Tiwari&theme=tokyonight" alt="mystreak"/>
 ![ Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya6Tiwari&theme=tokyonight&layout=compact)
+[![An image of @soumya6tiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya6tiwari)](https://holopin.io/@soumya6tiwari)
 
