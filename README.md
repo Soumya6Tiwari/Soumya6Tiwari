@@ -15,9 +15,7 @@
 
 
 
-<!--
-**ankit1576/ankit1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 <h1 align="center">Hi 👋, I'm Soumya Tiwari</h1>
 <h3 align="center">"Crafting Lines of Code and Dreams 🚀 | MCA Enthusiast | Coding my way through challenges and conquering the tech world! 💻✨ #MCAExplorer #GitHubAdventures"
