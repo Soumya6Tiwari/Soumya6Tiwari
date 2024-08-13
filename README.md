@@ -84,7 +84,7 @@
 #### Thanks for visiting :heart:
 
 
-![GSSoC24_Stats](C:\Users\DELL\Downloads\GSSoC24_Stats.png)<br>
+![GSSoC24_Stats](https://github.com/Soumya6Tiwari/Soumya6Tiwari/blob/main/GSSoC24_Stats.png)<br>
 
 [![An image of @soumya6tiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya6tiwari)](https://holopin.io/@soumya6tiwari)
 
