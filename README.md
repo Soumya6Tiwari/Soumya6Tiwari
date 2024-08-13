@@ -20,14 +20,6 @@
 <h1 align="center">Hi 👋, I'm Soumya Tiwari</h1>
 <h3 align="center">"Crafting Lines of Code and Dreams 🚀 | MCA Enthusiast | Coding my way through challenges and conquering the tech world! 💻✨ #MCAExplorer #GitHubAdventures"
 
-<!--
-**ankit1576/ankit1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![GSSoC24_Stats](https://github.com/user-attachments/assets/bb93481b-03e5-44cb-95b4-78d0946cb071)<br>
-
-[![An image of @soumya6tiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya6tiwari)](https://holopin.io/@soumya6tiwari)
-
-
 
 </h3>
  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" align="right">
@@ -90,6 +82,11 @@
 
 
 #### Thanks for visiting :heart:
+
+
+![GSSoC24_Stats](https://github.com/user-attachments/assets/bb93481b-03e5-44cb-95b4-78d0946cb071)<br>
+
+[![An image of @soumya6tiwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya6tiwari)](https://holopin.io/@soumya6tiwari)
 
  
 
